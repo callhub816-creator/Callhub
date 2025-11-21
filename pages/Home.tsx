@@ -110,7 +110,10 @@ const Home: React.FC = () => {
               </ul>
             </div>
          </div>
-         <p className="text-center text-xs text-gray-700 mt-12">© 2024 CallHub.in. 18+ Only. All rights reserved.</p>
+         <div className="text-center mt-12 space-y-2">
+           <p className="text-xs text-gray-700">© 2025 CallHub.AI • Love in pixels • 18+ Only</p>
+           <p className="text-xs text-gray-600">Made with ❤️ for emotional AI experiences</p>
+         </div>
       </section>
     </div>
   );

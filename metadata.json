@@ -1,0 +1,8 @@
+{
+  "name": "CallHub.in",
+  "description": "Premium AI Companion Platform featuring flirty chat, voice calls, and emotional connection.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
